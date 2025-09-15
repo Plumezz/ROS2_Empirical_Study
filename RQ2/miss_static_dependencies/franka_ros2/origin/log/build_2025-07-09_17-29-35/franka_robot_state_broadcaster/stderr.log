@@ -1,0 +1,8 @@
+[01m[K/home/qiguanxiao/ws/ws_franka_ros2/src/franka_ros2/franka_robot_state_broadcaster/test/test_franka_robot_state_broadcaster.cpp:23:10:[m[K [01;31m[Kfatal error: [m[Kros2_control_test_assets/descriptions.hpp: No such file or directory
+   23 | #include [01;31m[K"ros2_control_test_assets/descriptions.hpp"[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+gmake[2]: *** [CMakeFiles/franka_robot_state_broadcaster_test.dir/build.make:76: CMakeFiles/franka_robot_state_broadcaster_test.dir/test/test_franka_robot_state_broadcaster.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:234: CMakeFiles/franka_robot_state_broadcaster_test.dir/all] Error 2
+gmake[1]: *** Waiting for unfinished jobs....
+gmake: *** [Makefile:146: all] Error 2

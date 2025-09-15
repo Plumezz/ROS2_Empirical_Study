@@ -1,0 +1,21 @@
+[ 13%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[ 13%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[35m[1mConsolidate compiler generated dependencies of target hri[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/hri.dir/src/hri/body.cpp.o[0m
+[ 26%] [32mBuilding CXX object CMakeFiles/hri.dir/src/hri/face.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/hri.dir/src/hri/person.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/hri.dir/src/hri/hri.cpp.o[0m
+[ 46%] [32mBuilding CXX object CMakeFiles/hri.dir/src/hri/feature_tracker.cpp.o[0m
+[ 53%] [32mBuilding CXX object CMakeFiles/hri.dir/src/hri/voice.cpp.o[0m
+[ 60%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[ 60%] Built target gtest_main
+[01m[K/home/qiguanxiao/ws/dependencies/libhri/src/libhri/hri/src/hri/face.cpp:27:10:[m[K [01;31m[Kfatal error: [m[Kmagic_enum.hpp: No such file or directory
+   27 | #include [01;31m[K"magic_enum.hpp"[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+gmake[2]: *** [CMakeFiles/hri.dir/build.make:90: CMakeFiles/hri.dir/src/hri/face.cpp.o] Error 1
+gmake[2]: *** Waiting for unfinished jobs....
+[ 66%] [32m[1mLinking CXX static library libgtest.a[0m
+[ 66%] Built target gtest
+gmake[1]: *** [CMakeFiles/Makefile2:174: CMakeFiles/hri.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

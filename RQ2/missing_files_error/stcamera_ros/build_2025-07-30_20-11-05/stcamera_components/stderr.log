@@ -1,0 +1,21 @@
+In file included from [01m[K/home/qiguanxiao/ws/ws_stcamera_ros2/src/stcamera_ros2/stcamera_components/src/stcamera_node_impl.cpp:32[m[K:
+[01m[K/home/qiguanxiao/ws/ws_stcamera_ros2/src/stcamera_ros2/stcamera_components/include/impl/stcamera_node_impl.hpp:40:10:[m[K [01;31m[Kfatal error: [m[KStApi_TL.h: No such file or directory
+   40 | #include [01;31m[K<StApi_TL.h>[m[K
+      |          [01;31m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/qiguanxiao/ws/ws_stcamera_ros2/src/stcamera_ros2/stcamera_components/src/stcamera_node.cpp:32[m[K:
+[01m[K/home/qiguanxiao/ws/ws_stcamera_ros2/src/stcamera_ros2/stcamera_components/include/impl/stcamera_node_impl.hpp:40:10:[m[K [01;31m[Kfatal error: [m[KStApi_TL.h: No such file or directory
+   40 | #include [01;31m[K<StApi_TL.h>[m[K
+      |          [01;31m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/qiguanxiao/ws/ws_stcamera_ros2/src/stcamera_ros2/stcamera_components/src/stcamera_interface_impl.cpp:30[m[K:
+[01m[K/home/qiguanxiao/ws/ws_stcamera_ros2/src/stcamera_ros2/stcamera_components/include/impl/stcamera_interface_impl.hpp:44:10:[m[K [01;31m[Kfatal error: [m[KStApi_TL.h: No such file or directory
+   44 | #include [01;31m[K<StApi_TL.h>[m[K
+      |          [01;31m[K^~~~~~~~~~~~[m[K
+compilation terminated.
+compilation terminated.
+compilation terminated.
+gmake[2]: *** [CMakeFiles/stcamera_components.dir/build.make:90: CMakeFiles/stcamera_components.dir/src/stcamera_node_impl.cpp.o] Error 1
+gmake[2]: *** Waiting for unfinished jobs....
+gmake[2]: *** [CMakeFiles/stcamera_components.dir/build.make:132: CMakeFiles/stcamera_components.dir/src/stcamera_interface_impl.cpp.o] Error 1
+gmake[2]: *** [CMakeFiles/stcamera_components.dir/build.make:76: CMakeFiles/stcamera_components.dir/src/stcamera_node.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/stcamera_components.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

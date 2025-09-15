@@ -1,0 +1,70 @@
+[  0%] Built target ament_cmake_python_copy_hri_setup
+[  0%] Built target ament_cmake_python_copy_hri
+[ 33%] [32mBuilding CXX object CMakeFiles/hri.dir/src/pyhri/ndarray_converter.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/hri.dir/src/pyhri/pyhri.cpp.o[0m
+running egg_info
+writing hri.egg-info/PKG-INFO
+writing dependency_links to hri.egg-info/dependency_links.txt
+writing entry points to hri.egg-info/entry_points.txt
+writing top-level names to hri.egg-info/top_level.txt
+running install_scripts
+reading manifest file 'hri.egg-info/SOURCES.txt'
+writing manifest file 'hri.egg-info/SOURCES.txt'
+/home/qiguanxiao/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+!!
+
+        ********************************************************************************
+        Please avoid running ``setup.py`` directly.
+        Instead, use pypa/build, pypa/installer or other
+        standards-based tools.
+
+        See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+        ********************************************************************************
+
+!!
+  self.initialize_options()
+running egg_info
+[ 66%] Built target ament_cmake_python_build_hri_egg
+writing hri.egg-info/PKG-INFO
+writing dependency_links to hri.egg-info/dependency_links.txt
+writing entry points to hri.egg-info/entry_points.txt
+writing top-level names to hri.egg-info/top_level.txt
+reading manifest file 'hri.egg-info/SOURCES.txt'
+writing manifest file 'hri.egg-info/SOURCES.txt'
+Installing pyhri_example script to scripts
+[ 66%] Built target ament_cmake_python_build_hri_scripts
+[100%] [32m[1mLinking CXX shared library hri.cpython-310-x86_64-linux-gnu.so[0m
+[100%] Built target hri
+-- Install configuration: ""
+-- Up-to-date: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/share/pyhri/environment/pythonpath.sh
+-- Up-to-date: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/share/pyhri/environment/pythonpath.dsv
+-- Up-to-date: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/local/lib/python3.10/dist-packages/hri-2.7.0-py3.10.egg-info
+-- Installing: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/local/lib/python3.10/dist-packages/hri-2.7.0-py3.10.egg-info/dependency_links.txt
+-- Installing: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/local/lib/python3.10/dist-packages/hri-2.7.0-py3.10.egg-info/SOURCES.txt
+-- Installing: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/local/lib/python3.10/dist-packages/hri-2.7.0-py3.10.egg-info/top_level.txt
+-- Installing: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/local/lib/python3.10/dist-packages/hri-2.7.0-py3.10.egg-info/PKG-INFO
+-- Installing: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/local/lib/python3.10/dist-packages/hri-2.7.0-py3.10.egg-info/entry_points.txt
+-- Up-to-date: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/lib/hri/
+-- Installing: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/lib/hri//pyhri_example
+-- Up-to-date: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/local/lib/python3.10/dist-packages/hri
+-- Up-to-date: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/local/lib/python3.10/dist-packages/hri/example.py
+-- Up-to-date: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/local/lib/python3.10/dist-packages/hri/__init__.py
+Listing '/home/qiguanxiao/ws/dependencies/libhri/install/pyhri/local/lib/python3.10/dist-packages/hri'...
+-- Installing: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/local/lib/python3.10/dist-packages/hri/hri.cpython-310-x86_64-linux-gnu.so
+-- Set runtime path of "/home/qiguanxiao/ws/dependencies/libhri/install/pyhri/local/lib/python3.10/dist-packages/hri/hri.cpython-310-x86_64-linux-gnu.so" to ""
+-- Up-to-date: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/share/ament_index/resource_index/package_run_dependencies/pyhri
+-- Up-to-date: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/share/ament_index/resource_index/parent_prefix_path/pyhri
+-- Up-to-date: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/share/pyhri/environment/ament_prefix_path.sh
+-- Up-to-date: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/share/pyhri/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/share/pyhri/environment/path.sh
+-- Up-to-date: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/share/pyhri/environment/path.dsv
+-- Up-to-date: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/share/pyhri/local_setup.bash
+-- Up-to-date: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/share/pyhri/local_setup.sh
+-- Up-to-date: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/share/pyhri/local_setup.zsh
+-- Up-to-date: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/share/pyhri/local_setup.dsv
+-- Installing: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/share/pyhri/package.dsv
+-- Up-to-date: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/share/ament_index/resource_index/packages/pyhri
+-- Up-to-date: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/share/pyhri/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/share/pyhri/cmake/pyhriConfig.cmake
+-- Up-to-date: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/share/pyhri/cmake/pyhriConfig-version.cmake
+-- Up-to-date: /home/qiguanxiao/ws/dependencies/libhri/install/pyhri/share/pyhri/package.xml

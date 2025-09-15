@@ -1,0 +1,20 @@
+the latest update date is 2025-08-19 for the analysis.
+
+Total packages: 2163
+Packages updated in the last 7 days: 67
+Packages updated in the last 14 days: 22
+Packages updated in the last 30 days: 154
+Packages updated in the last 90 days: 621
+Packages updated in the last 180 days: 271
+Packages updated in the last 365 days: 228
+Packages updated in the last 730 days: 333
+Packages not updated in the last 730 days: 467
+Total unique repositories: 735
+Repos updated in the last 7 days: 29
+Repos updated in the last 14 days: 12
+Repos updated in the last 30 days: 34
+Repos updated in the last 90 days: 135
+Repos updated in the last 180 days: 94
+Repos updated in the last 365 days: 91
+Repos updated in the last 730 days: 144
+Repos not updated in the last 730 days: 231

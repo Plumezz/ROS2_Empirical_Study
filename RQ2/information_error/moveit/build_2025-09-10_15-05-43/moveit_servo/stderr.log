@@ -1,0 +1,22 @@
+/usr/bin/ld: libmoveit_servo_lib.so.2.5.9: undefined reference to `rosidl_service_type_support_t const* rosidl_typesupport_cpp::get_service_type_support_handle<moveit_msgs::srv::ChangeControlDimensions>()'
+/usr/bin/ld: libmoveit_servo_lib.so.2.5.9: undefined reference to `rosidl_service_type_support_t const* rosidl_typesupport_cpp::get_service_type_support_handle<moveit_msgs::srv::ChangeDriftDimensions>()'
+collect2: error: ld returned 1 exit status
+gmake[2]: *** [CMakeFiles/servo_calcs_unit_tests.dir/build.make:378: servo_calcs_unit_tests] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:480: CMakeFiles/servo_calcs_unit_tests.dir/all] Error 2
+gmake[1]: *** Waiting for unfinished jobs....
+/usr/bin/ld: libmoveit_servo_lib.so.2.5.9: undefined reference to `rosidl_service_type_support_t const* rosidl_typesupport_cpp::get_service_type_support_handle<moveit_msgs::srv::ChangeControlDimensions>()'
+/usr/bin/ld: libmoveit_servo_lib.so.2.5.9: undefined reference to `rosidl_service_type_support_t const* rosidl_typesupport_cpp::get_service_type_support_handle<moveit_msgs::srv::ChangeDriftDimensions>()'
+collect2: error: ld returned 1 exit status
+gmake[2]: *** [CMakeFiles/servo_node_main.dir/build.make:377: servo_node_main] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:311: CMakeFiles/servo_node_main.dir/all] Error 2
+/usr/bin/ld: libmoveit_servo_lib.so.2.5.9: undefined reference to `rosidl_service_type_support_t const* rosidl_typesupport_cpp::get_service_type_support_handle<moveit_msgs::srv::ChangeControlDimensions>()'
+/usr/bin/ld: libmoveit_servo_lib.so.2.5.9: undefined reference to `rosidl_service_type_support_t const* rosidl_typesupport_cpp::get_service_type_support_handle<moveit_msgs::srv::ChangeDriftDimensions>()'
+collect2: error: ld returned 1 exit status
+gmake[2]: *** [CMakeFiles/servo_pose_tracking_demo.dir/build.make:377: servo_pose_tracking_demo] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:339: CMakeFiles/servo_pose_tracking_demo.dir/all] Error 2
+/usr/bin/ld: libmoveit_servo_lib.so.2.5.9: undefined reference to `rosidl_service_type_support_t const* rosidl_typesupport_cpp::get_service_type_support_handle<moveit_msgs::srv::ChangeControlDimensions>()'
+/usr/bin/ld: libmoveit_servo_lib.so.2.5.9: undefined reference to `rosidl_service_type_support_t const* rosidl_typesupport_cpp::get_service_type_support_handle<moveit_msgs::srv::ChangeDriftDimensions>()'
+collect2: error: ld returned 1 exit status
+gmake[2]: *** [CMakeFiles/test_servo_pose_tracking.dir/build.make:379: test_servo_pose_tracking] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:451: CMakeFiles/test_servo_pose_tracking.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

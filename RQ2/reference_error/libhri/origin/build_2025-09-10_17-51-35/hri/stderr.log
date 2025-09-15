@@ -1,0 +1,8 @@
+[01m[K/home/qiguanxiao/ws/dependencies/libhri/src/libhri/hri/src/hri/face.cpp:27:10:[m[K [01;31m[Kfatal error: [m[Kmagic_enum.hpp: No such file or directory
+   27 | #include [01;31m[K"magic_enum.hpp"[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+gmake[2]: *** [CMakeFiles/hri.dir/build.make:90: CMakeFiles/hri.dir/src/hri/face.cpp.o] Error 1
+gmake[2]: *** Waiting for unfinished jobs....
+gmake[1]: *** [CMakeFiles/Makefile2:174: CMakeFiles/hri.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2
