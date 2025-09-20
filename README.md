@@ -33,7 +33,7 @@ The latest update date is 2025-08-29 for analysis and the detailed file is RQ1/p
 
 ### information_error
 For the dependent moveit_msgs with ros2 branch, moveit2 with humble branch built failed. After changing the ros2 branch to humble branch of moveit_msgs, moveit2 could build successfully.
-The failure log is shown in RQ2/information_error/
+The failure log is shown in RQ2/information_error/. Specially, the package moveit_servo failed.
 
 ### missing_static_dependencies
 The original and fixed log of franka_ros2 are shown in RQ2/missing_static_dependencies
